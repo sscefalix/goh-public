@@ -1,26 +1,28 @@
-[
-    {
-        "name": "clear",
-        "description": "Очистить текстовый канал",
-        "usage": "clear (Кол-во сообщений)",
-        "category": "utils",
-        "examples": [
-            {
-                "name": "clear 100",
-                "description": "Очищает 100 сообщений"
-            }
-        ]
-    },
-    {
-        "name": "kick",
-        "description": "Выгнать участника с сервера",
-        "usage": "kick (@Участник)",
-        "category": "moderation",
-        "examples": [
-            {
-                "name": "kick @sscefalix",
-                "description": "Выгоняет участника с никнеймом @sscefalix"
-            }
-        ]
-    },
-]
+{
+    "commands": [
+        {
+            "name": "clear",
+            "description": "Очистить текстовый канал",
+            "usage": "clear (Кол-во сообщений)",
+            "category": "utils",
+            "examples": [
+                {
+                    "name": "clear 100",
+                    "description": "Очищает 100 сообщений"
+                }
+            ]
+        },
+        {
+            "name": "kick",
+            "description": "Выгнать участника с сервера",
+            "usage": "kick (@Участник)",
+            "category": "moderation",
+            "examples": [
+                {
+                    "name": "kick @sscefalix",
+                    "description": "Выгоняет участника с никнеймом @sscefalix"
+                }
+            ]
+        },
+    ]
+}
