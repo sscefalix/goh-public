@@ -4,7 +4,7 @@
             "name": "clear",
             "description": "Очистить текстовый канал",
             "usage": "clear (Кол-во сообщений)",
-            "category": "utils",
+            "category": "Утилиты",
             "examples": [
                 {
                     "name": "clear 100",
@@ -16,7 +16,7 @@
             "name": "kick",
             "description": "Выгнать участника с сервера",
             "usage": "kick (@Участник)",
-            "category": "moderation",
+            "category": "Модерация",
             "examples": [
                 {
                     "name": "kick @sscefalix",
