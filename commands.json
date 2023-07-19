@@ -4,7 +4,7 @@
             "name": "clear",
             "description": "Очистить текстовый канал",
             "usage": "clear (Кол-во сообщений)",
-            "category": "Test",
+            "category": "Утилиты",
             "examples": [
                 {
                     "name": "clear 100",
