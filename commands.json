@@ -23,6 +23,18 @@
                     "description": "Выгоняет участника с никнеймом @sscefalix"
                 }
             ]
+        },
+        {
+            "name": "ban",
+            "description": "Забанить участника на сервере",
+            "usage": "kick (@Участник)",
+            "category": "Модерация",
+            "examples": [
+                {
+                    "name": "ban @sscefalix",
+                    "description": "Банит участника с ником @sscefalix на сервере"
+                }
+            ]
         }
     ]
 }
