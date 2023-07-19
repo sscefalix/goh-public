@@ -27,7 +27,7 @@
         {
             "name": "ban",
             "description": "Забанить участника на сервере",
-            "usage": "kick (@Участник)",
+            "usage": "ban (@Участник)",
             "category": "Модерация",
             "examples": [
                 {
